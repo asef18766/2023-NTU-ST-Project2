@@ -1,0 +1,3 @@
+REAL-TIME COLLABORATION
+Compose scores in real-time with your friends.
+Scores can be opened and edited by multiple people from different devices.
